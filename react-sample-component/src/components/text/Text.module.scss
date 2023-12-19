@@ -1,11 +1,11 @@
 .text {
   margin: 0;
-  
+
   &.bold {
     font-weight: bold;
   }
 
-  &.size{
+  &.size {
     &-small {
       font-size: 12px;
     }
