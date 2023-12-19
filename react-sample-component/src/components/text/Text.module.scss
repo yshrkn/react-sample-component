@@ -1,0 +1,19 @@
+.text {
+  margin: 0;
+  
+  &.bold {
+    font-weight: bold;
+  }
+
+  &.size{
+    &-small {
+      font-size: 12px;
+    }
+    &-medium {
+      font-size: 14px;
+    }
+    &-large {
+      font-size: 16px;
+    }
+  }
+}
