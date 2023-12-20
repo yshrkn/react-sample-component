@@ -1,7 +1,10 @@
 {
-  "name": "react-sample-component",
-  "private": true,
-  "version": "0.0.0",
+  "name": "react-sample-component-by-yshrkn",
+  "author": "Ken Yoshihara:",
+  "private": false,
+  "license": "MIT",
+  "description": "A sample react component",
+  "version": "0.1.0",
   "type": "module",
   "types": "types/index.d.ts",
   "files": [
