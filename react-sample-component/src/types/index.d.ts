@@ -1,0 +1,1 @@
+import * as TextProps from './text';
