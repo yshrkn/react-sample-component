@@ -5,4 +5,3 @@ export type TextProps = {
     className?: string;
     bold?: boolean;
 };
-//# sourceMappingURL=text.d.ts.map
