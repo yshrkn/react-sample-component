@@ -1,6 +1,6 @@
 import { TextProps } from '../../types/text';
 import cc from 'classcat';
-import styles from './styles.module.scss';
+import styles from './Text.module.scss';
 
 export function Text({
   children,
