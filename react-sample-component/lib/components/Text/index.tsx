@@ -1,8 +1,8 @@
 import { TextProps } from '../../types/text';
 import cc from 'classcat';
-import styles from './Text.module.scss';
+import styles from './styles.module.scss';
 
-function Text({
+export function Text({
   children,
   className,
   size = "medium",
@@ -21,5 +21,3 @@ function Text({
     </p>
   );
 }
-
-export default Text;
