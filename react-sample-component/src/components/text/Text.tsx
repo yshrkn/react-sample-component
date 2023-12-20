@@ -1,4 +1,4 @@
-import { TextProps } from '@/types/text';
+import { TextProps } from '../../types/text';
 import cc from 'classcat';
 import styles from './Text.module.scss';
 

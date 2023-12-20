@@ -9997,9 +9997,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-sample-component@workspace:.":
+"react-sample-component-by-yshrkn@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-sample-component@workspace:."
+  resolution: "react-sample-component-by-yshrkn@workspace:."
   dependencies:
     "@storybook/addon-essentials": "npm:^7.6.6"
     "@storybook/addon-interactions": "npm:^7.6.6"
@@ -10028,6 +10028,9 @@ __metadata:
     storybook: "npm:^7.6.6"
     typescript: "npm:^5.2.2"
     vite: "npm:^5.0.8"
+  peerDependencies:
+    react: ^18.2.0
+    react-dom: ^18.2.0
   languageName: unknown
   linkType: soft
 
